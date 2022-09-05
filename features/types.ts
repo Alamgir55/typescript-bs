@@ -11,4 +11,3 @@ class color {
 
 const red = new color();
 
-red
